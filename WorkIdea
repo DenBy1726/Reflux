@@ -1,0 +1,26 @@
+1)загрузка приложения
+    bundle.js:22175 PhonesList constructor
+    bundle.js:23515 PhonesStore constructor
+    bundle.js:22216 PhonesList render
+    bundle.js:22254 Phone constructor
+    bundle.js:22273 Phone render
+    bundle.js:22254 Phone constructor
+    bundle.js:22273 Phone render
+
+
+2)добавление записи
+    bundle.js:22197 PhonesList onClick
+    bundle.js:23529 PhonesStore onAddItem
+    bundle.js:22216 PhonesList render
+    bundle.js:22273 Phone render
+    bundle.js:22254 Phone constructor
+    bundle.js:22273 Phone render
+
+
+3) удаление записи
+
+    bundle.js:22266 Phone onClick
+    bundle.js:22207 PhonesList onRemove
+    bundle.js:23536 PhonesStore onRemoveItem
+    bundle.js:22216 PhonesList render
+    bundle.js:22273 Phone render
